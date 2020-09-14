@@ -8,8 +8,8 @@
 
 ## For each terminal window command, add an explanation to the following list
 
-- `poetry run pylint rootfinder tests`:
-- `poetry run pytest -s`:
+- `poetry run pylint rootfinder tests`:n This command allows for the program to be checked the written program for the industry standard python language.
+- `poetry run pytest -s`: This command allows for the user to check that the program is functioning properly. It does so by taking the defined checks in the tests subdirectory and compares them to the outputs put forth from the corrected program.
 - `git commit`:
 - `git push`:
 
