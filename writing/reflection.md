@@ -1,4 +1,4 @@
-# Reflection by Add Your Name Here
+# Reflection by Add Jacob Boord
 
 ## Using two fenced code blocks, please display two correct outputs from running your program
 
@@ -10,8 +10,8 @@
 
 - `poetry run pylint rootfinder tests`:n This command allows for the program to be checked the written program for the industry standard python language.
 - `poetry run pytest -s`: This command allows for the user to check that the program is functioning properly. It does so by taking the defined checks in the tests subdirectory and compares them to the outputs put forth from the corrected program.
-- `git commit`:
-- `git push`:
+- `git commit`: This command applies the changes to the directory that are logged on GitHub as commits. This is how the version history of the program can be tracked and viewed along with the changes that were made.
+- `git push`: This command pushes the changes to the repository so that they appear on the GitHub website. This is where GitHub actions is run to check to see if the code meets the criteria for the laboratory assignment to be shown as correct and complete.
 
 ## After reading the assignment sheet and the referenced resources, what are "imaginary" numbers?
 
