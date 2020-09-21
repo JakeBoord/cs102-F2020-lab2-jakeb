@@ -1,6 +1,7 @@
 # Reflection by Add Jacob Boord
 
 ## Using two fenced code blocks, please display two correct outputs from running your program
+
 ```
 Calculating the reals of a quadratic equation with:
    a = 1.0
@@ -18,9 +19,11 @@ Calculating the reals of a quadratic equation with:
    x_one = (-0.49999999999999994+0.8660254037844386j)
    x_two = (-0.5-0.8660254037844386j)
 ```
+
 ## Using a fenced code block, please display the passing output from running the tests
+
 ```
-tests\test_rootfind.py ..                                                                                               [100%] 
+tests\test_rootfind.py ..[100%]
 
 ===================================================== 2 passed in 0.10s ======================================================
 ```
@@ -38,7 +41,7 @@ Imaginary numbers, also known as complex numbers, are an extension of real numbe
 
 ## What was the greatest technical challenge that you faced and how did you overcome it?
 
-The greatest technical challenge that I faced with this laboratory assignment was installing the poetry package for windows. The process was a difficult process in the beginning because this was the first time that I was dealing with the poetry packages. After finding difficulty with the installation of these, I watched a couple of YouTube videos to figure out how it functions. I was then able to get it properly installed and I was ready to begin my lab assignment. 
+The greatest technical challenge that I faced with this laboratory assignment was installing the poetry package for windows. The process was a difficult process in the beginning because this was the first time that I was dealing with the poetry packages. After finding difficulty with the installation of these, I watched a couple of YouTube videos to figure out how it functions. I was then able to get it properly installed and I was ready to begin my lab assignment.
 
 ## After completing this assignment, what is task that you want to practice more? Why?
 
@@ -46,4 +49,4 @@ After completing this laboratory task, I would like to work more with debugging 
 
 ## After completing this assignment, what is one experience for which you are grateful?
 
-I am grateful for the experience with the poetry packages and how they are installed. This is a funamental baseline for moving forward in the class as we progress into more complex programs that require the use of poetry. At first, I was unsure how to properly use the tools; however, as I went through the process described above, I was able to figure out how it functioned. Now, I feel confident in installing the poetry packages necessary for the assignments using the VS Code terminal in the proper files. This will help me with all assignments moving forward. 
+I am grateful for the experience with the poetry packages and how they are installed. This is a funamental baseline for moving forward in the class as we progress into more complex programs that require the use of poetry. At first, I was unsure how to properly use the tools; however, as I went through the process described above, I was able to figure out how it functioned. Now, I feel confident in installing the poetry packages necessary for the assignments using the VS Code terminal in the proper files. This will help me with all assignments moving forward.
