@@ -1,8 +1,6 @@
 """Calculate the roots of a quadratic equation."""
 
 
-
-
 def calculate_quadratic_equation_roots(a: float, b: float, c: float):
     # Calculate the roots of a quadratic equation.
     D = (b * b - 4 * a * c) ** 0.5
